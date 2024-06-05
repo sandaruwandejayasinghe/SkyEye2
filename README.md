@@ -71,6 +71,9 @@ SkyEye is a simple weather application that provides real-time weather informati
 - AndroidX libraries for compatibility and UI components.
 
 ## ScreenShots
+![2 SkyEye2](https://github.com/sandaruwandejayasinghe/SkyEye2/assets/67944988/525e7bf5-23be-49f8-b109-dead3735f9d7)
+![3 SkyEye2](https://github.com/sandaruwandejayasinghe/SkyEye2/assets/67944988/12bede88-a2f7-4c26-8395-04f224ea6746)
+![SkyEye2](https://github.com/sandaruwandejayasinghe/SkyEye2/assets/67944988/929f6d99-92f8-4c32-88fb-5cfb868c7fff)
 
 
 ## License
